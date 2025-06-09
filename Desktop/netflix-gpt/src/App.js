@@ -1,14 +1,10 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Body from './components/Body';
 
 function App() {
-  return (
-    <div >
-
-      Home 
-      
-    </div>
-  );
+  
+  return <Body />;
 }
 
 export default App;
